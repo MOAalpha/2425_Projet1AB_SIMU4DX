@@ -11,7 +11,7 @@ OBJECTIF :
 1 personne :
  - Infos renvoyées par le jeu (Aceto Corsa)
 
-**Modèle : **
+**Modèle :**
 
 ![Modèle du projet](https://github.com/user-attachments/assets/3c108193-fe4b-43f5-b230-de242efd74a3)
 

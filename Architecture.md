@@ -8,7 +8,7 @@ OBJECTIF :
   - COM PC <=> PCB
 
 1 personne :
- - Infos renvoyées par le jeu
+ - Infos renvoyées par le jeu (Aceto Corsa)
 
 Modèle : 
 
@@ -16,5 +16,7 @@ Modèle :
 
 
  => Regarder Phil Labs *HID JOYSTICK*
+
+
 
  

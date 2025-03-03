@@ -70,9 +70,6 @@
         <mxCell id="NrqMM1b8UnGH21ajet8I-19" value="USB C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NrqMM1b8UnGH21ajet8I-20" value="POUR LES SCHEMAS KiCad, AJOUTER LE CHAMP MPN (manufacturer ... = Référence du fabricant)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="30" y="790" width="370" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NrqMM1b8UnGH21ajet8I-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrqMM1b8UnGH21ajet8I-9" target="NrqMM1b8UnGH21ajet8I-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="365" y="360" as="sourcePoint" />

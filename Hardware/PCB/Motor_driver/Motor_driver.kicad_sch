@@ -7273,15 +7273,6 @@
 		(at 138.43 158.75)
 		(uuid "f6013f7d-ee81-48f3-bc6b-75439011fece")
 	)
-	(bus_entry
-		(at 93.98 107.95)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56f57164-f824-4e47-950d-caf0deb7510b")
-	)
 	(wire
 		(pts
 			(xy 153.67 107.95) (xy 153.67 109.22)
@@ -16689,7 +16680,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical_SMD"
 			(at 95.25 171.45 0)
 			(effects
 				(font

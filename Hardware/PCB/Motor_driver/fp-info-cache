@@ -1,4 +1,4 @@
-24735719852492481
+24794798082323111
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55229,6 +55229,62 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom
+452406020024
+
+
+0
+6
+6
+Custom
+Oscillator 7x5mm
+
+
+0
+4
+4
+Custom
+PDFN3333
+
+
+0
+9
+3
+Custom
+PDFN5060
+
+
+0
+11
+7
+Custom
+Solder Pad x3
+
+
+0
+3
+3
+Custom
+Solder pad x2
+
+
+0
+2
+2
+Custom
+inductor
+
+
+0
+2
+2
+Custom
+mini_pad
+
+
+0
+2
+2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -91195,6 +91251,188 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SamacSys_Parts
+691216410003
+691216410003-2
+Connector
+0
+3
+3
+SamacSys_Parts
+171013801
+171013801-2
+Power Supply
+0
+13
+13
+SamacSys_Parts
+430152043826
+WS-TASV 6x6
+Switch
+0
+4
+4
+SamacSys_Parts
+430181038816
+430181038816
+Switch
+0
+4
+4
+SamacSys_Parts
+824045817
+824045817-4
+TVS Diode (Uni-directional)
+0
+2
+2
+SamacSys_Parts
+632722100213
+632722100213-1
+Connector
+0
+10
+10
+SamacSys_Parts
+418121270802
+418121270802-1
+Switch
+0
+4
+4
+SamacSys_Parts
+A8519KETTRR1
+ET
+Integrated Circuit
+0
+29
+29
+SamacSys_Parts
+ABLS
+ABLS
+Crystal or Oscillator
+0
+2
+2
+SamacSys_Parts
+BM83SM100TB
+BM83SM1-00TB-2
+Integrated Circuit
+0
+52
+52
+SamacSys_Parts
+BQ25792RQMR
+RQM0029A
+Integrated Circuit
+0
+33
+33
+SamacSys_Parts
+CAPAE530X550N
+5 (Dia.) x 5.35mm
+Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
+CAPAE1710X1700N
+16.*17
+Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
+DIOM4725X110N
+SOD128-ren1
+TVS Diode (Uni-directional)
+0
+2
+2
+SamacSys_Parts
+DMHT3006LFJ13
+DMHT3006LFJ-13-2
+MOSFET (N-Channel)
+0
+14
+14
+SamacSys_Parts
+INDPM135125X650N
+744373965100
+Inductor
+0
+2
+2
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+QFN40P400X400X100-33N-D
+RSM0032B
+Integrated Circuit
+0
+33
+33
+SamacSys_Parts
+QFP80P900X900X160-32N
+ST LQFP32
+Integrated Circuit
+0
+32
+32
+SamacSys_Parts
+SOIC127P600X175-9N
+SOP-8
+Connector
+0
+9
+9
+SamacSys_Parts
+SOT95P280X125-5N
+BD45232G-TR-SSOP5
+Power Supply
+0
+5
+5
+SamacSys_Parts
+SOT230P700X180-4N
+AZ1117CH2-3.3TRG1
+Integrated Circuit
+0
+4
+4
+SamacSys_Parts
+SQ7414AENT1GE3
+PowerPAK-1212-8-SINGLE
+MOSFET (N-Channel)
+0
+9
+9
+SamacSys_Parts
+STL105N4LF7AG
+STL105N4LF7AG
+Integrated Circuit
+0
+13
+13
+SamacSys_Parts
+TPS65987DDHRSHR
+RSH0056E_2023
+Integrated Circuit
+0
+55
+55
+SamacSys_Parts
+WE-MAPI_3020
+WE-MAPI_3020
+Inductor
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf

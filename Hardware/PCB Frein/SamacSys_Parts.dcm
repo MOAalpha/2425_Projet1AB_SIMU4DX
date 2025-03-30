@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 171013801
+D Non-Isolated PoL Module DC DC Converter 1 Output 0.85 ~ 13V 1A 3.5V - 38V Input 
+K
+F https://www.we-online.com/components/products/datasheet/171013801.pdf
+$ENDCMP
+#
+$CMP AZ1117CR2-3.3TRG1
+D Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-89-3
+K
+F https://www.diodes.com//assets/Datasheets/AZ1117C.pdf
+$ENDCMP
+#
+$CMP AZ1117CH-3.3TRG1
+D 1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223
+K
+F https://www.diodes.com//assets/Datasheets/AZ1117C.pdf
+$ENDCMP
+#
+$CMP AZ1117CH2-3.3TRG1
+D LDO Voltage Regulators LDO BJT HiCurr SOT223 T&R 4K
+K
+F https://www.diodes.com//assets/Datasheets/AZ1117C.pdf
+$ENDCMP
+#
+#End Doc Library

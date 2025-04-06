@@ -1,4 +1,4 @@
-24744423281835858
+24742684775072808
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65848,28 +65848,28 @@ Yellow 5381 Series LED
 0
 2
 2
-Maker
+Maker_librairy
 171013801
 
 
 0
 13
 13
-Maker
+Maker_librairy
 FDMQ86530L
 
 
 0
 15
 12
-Maker
+Maker_librairy
 KSS221GLFS
 
 KSS221GLFS 
 0
 2
 2
-Maker
+Maker_librairy
 SQJ504EP
 
 
@@ -92896,13 +92896,6 @@ Logo WEEE
 0
 0
 0
-TMC262_Stepper_Driver
-171013801
-
-
-0
-13
-13
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

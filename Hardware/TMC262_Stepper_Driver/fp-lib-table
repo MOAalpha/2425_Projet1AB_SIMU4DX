@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TMC262_Stepper_Driver")(type "KiCad")(uri "/home/nicolas/git/2425_Projet1AB_SIMU4DX/Hardware/TMC262_Stepper_Driver.pretty")(options "")(descr ""))
+)

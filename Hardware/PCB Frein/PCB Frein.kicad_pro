@@ -249,7 +249,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCB Frein.kicad_pro",
+    "filename": "modif.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -409,7 +409,7 @@
   },
   "sheets": [
     [
-      "23f76a5e-5f9b-4d3b-9a9f-e26ef7dfb9a9",
+      "92a48857-8063-46b0-8b77-042de69634e1",
       "Root"
     ]
   ],

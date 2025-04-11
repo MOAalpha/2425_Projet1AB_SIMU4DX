@@ -1,0 +1,39 @@
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-F_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-In1_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-In2_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-B_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-F_Paste.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-B_Paste.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-F_Mask.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-B_Mask.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\PCB_COM-job.gbrjob'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-F_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-In1_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-In2_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-B_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-F_Paste.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-B_Paste.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-F_Mask.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-B_Mask.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\youne\OneDrive\Bureau\Gerber PCB\PCB_COM-job.gbrjob'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-F_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-In1_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-In2_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-B_Cu.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-F_Paste.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-B_Paste.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-F_Mask.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-B_Mask.gbr'.
+Plotted to 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\youne\OneDrive\Bureau\STM32_COM_Project\PCB_COM\exports\PCB_COM-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.

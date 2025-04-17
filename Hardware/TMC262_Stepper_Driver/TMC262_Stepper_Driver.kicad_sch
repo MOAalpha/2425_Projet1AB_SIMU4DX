@@ -13081,6 +13081,14 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "WE 171013801"
+			(at 72.39 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "f7a569a8-aa89-4a8d-af94-3dcff3565566")
 		)
@@ -13204,7 +13212,7 @@
 		(at 130.81 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "02e38876-5f7e-45d6-ad1a-eb3d0f27d32c")
@@ -13429,7 +13437,7 @@
 		(at 119.38 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0aaa904a-2bf2-401c-ac0e-3d1db9c25fee")
@@ -13669,6 +13677,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 151.13 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "150060RS55040"
 			(at 151.13 88.9 0)
 			(effects
 				(font
@@ -15192,7 +15209,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "561 070 332 057"
+		(property "MPN" "WE 561070332057"
 			(at 328.93 185.42 0)
 			(effects
 				(font
@@ -15473,6 +15490,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "150060RS55040"
+			(at 107.95 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "334a3f70-f6a0-4092-8716-82b7aae76f2b")
 		)
@@ -15610,7 +15636,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 106 006"
+		(property "MPN" "WE 885012106006"
 			(at 207.01 151.13 0)
 			(effects
 				(font
@@ -16236,6 +16262,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "WS2812B"
+			(at 191.77 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "85c15756-4b99-419f-9075-7044d53cb4e1")
 		)
@@ -16312,7 +16347,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 208 069"
+		(property "MPN" "WE 885012208069"
 			(at 182.88 152.4 0)
 			(effects
 				(font
@@ -16383,6 +16418,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 130.81 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "150060RS55040"
 			(at 130.81 88.9 0)
 			(effects
 				(font
@@ -16927,7 +16971,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 107 006"
+		(property "MPN" "WE 885012107006"
 			(at 99.06 45.72 0)
 			(effects
 				(font
@@ -16956,7 +17000,7 @@
 		(at 44.45 213.36 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17070,7 +17114,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "561 070 332 057"
+		(property "MPN" "WE 561070332057"
 			(at 320.04 241.3 0)
 			(effects
 				(font
@@ -17165,7 +17209,7 @@
 		(at 44.45 223.52 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18546,7 +18590,7 @@
 		(at 96.52 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "69b5651d-a2fa-4303-ac6c-80d269cd7f09")
@@ -18793,7 +18837,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "561 070 332 057"
+		(property "MPN" "WE 561070332057"
 			(at 321.31 185.42 0)
 			(effects
 				(font
@@ -19006,7 +19050,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 208 069"
+		(property "MPN" "WE 885012208069"
 			(at 368.3 166.37 0)
 			(effects
 				(font
@@ -19163,6 +19207,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "150060RS55040"
+			(at 119.38 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "544c4980-f40b-47eb-aba7-d7310e1c5c68")
 		)
@@ -19225,6 +19278,15 @@
 			)
 		)
 		(property "Description" "Driver for two-phase stepper motors with external mosfet"
+			(at 224.79 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TMC262C-LA"
 			(at 224.79 193.04 0)
 			(effects
 				(font
@@ -19679,6 +19741,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "AZ1117CH-3.3TRG1"
+			(at 140.97 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "fe83a4e8-d392-48c0-b6ca-1999114c362c")
 		)
@@ -19824,7 +19895,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "561 070 332 057"
+		(property "MPN" "WE 561070332057"
 			(at 327.66 241.3 0)
 			(effects
 				(font
@@ -20548,6 +20619,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "WS2812B"
+			(at 207.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "18b14903-22c2-4512-a3d2-b8182151fc8f")
 		)
@@ -20862,7 +20942,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "561 070 332 057"
+		(property "MPN" "WE 561070332057"
 			(at 312.42 241.3 0)
 			(effects
 				(font
@@ -21098,7 +21178,7 @@
 		(at 44.45 191.77 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21163,7 +21243,7 @@
 		(at 175.26 247.65 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9b9f9cf7-221e-485a-81b4-a853d9da9949")
@@ -21416,6 +21496,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "150060RS55040"
+			(at 96.52 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef9eabfa-f4dd-4b4d-bcea-fac75df8d9e8")
 		)
@@ -21502,7 +21591,7 @@
 		(at 151.13 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9ee7fc0c-82e4-4ba1-977e-de54c60fdb50")
@@ -21698,7 +21787,7 @@
 		(at 44.45 201.93 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21813,6 +21902,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "150060RS55040"
+			(at 140.97 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0e1c44e-80e7-4bed-a151-da7442d193e9")
 		)
@@ -21875,6 +21973,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 271.78 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "150060RS55040"
 			(at 271.78 236.22 0)
 			(effects
 				(font
@@ -22019,7 +22126,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 208 069"
+		(property "MPN" "WE 885012208069"
 			(at 368.3 220.98 0)
 			(effects
 				(font
@@ -23070,7 +23177,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 106 006"
+		(property "MPN" "WE 885012106006"
 			(at 132.08 46.99 0)
 			(effects
 				(font
@@ -23149,7 +23256,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885 012 107 011"
+		(property "MPN" "WE 885012107011"
 			(at 149.86 46.99 0)
 			(effects
 				(font
@@ -23293,6 +23400,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MPN" "FSV340AF"
+			(at 63.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -23541,7 +23656,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized_Small"
+		(property "Value" "220u"
 			(at 69.85 258.5338 0)
 			(effects
 				(font
@@ -23577,7 +23692,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "865060657012"
+		(property "MPN" "WE 865060657012"
 			(at 67.31 257.81 0)
 			(effects
 				(font
@@ -24131,7 +24246,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "561 070 332 057"
+		(property "MPN" "WE 561070332057"
 			(at 313.69 185.42 0)
 			(effects
 				(font
@@ -24462,6 +24577,14 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "FSV340AF"
+			(at 63.5 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "13e200b3-cc27-4c27-a729-67d613f292b9")
 		)
@@ -24552,7 +24675,7 @@
 		(at 107.95 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dc7bfa67-6d1d-4ad6-b68b-632e52490083")
@@ -24617,7 +24740,7 @@
 		(at 140.97 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dce26c6f-e8cc-4d07-9271-e22a802e1b0a")
@@ -24732,7 +24855,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "629722000214"
+		(property "MPN" "WE 629722000214"
 			(at 123.19 209.55 0)
 			(effects
 				(font
@@ -24925,7 +25048,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885012209048"
+		(property "MPN" "WE 885012209048"
 			(at 34.29 39.37 0)
 			(effects
 				(font
@@ -25077,6 +25200,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MPN" "FSV340AF"
+			(at 63.5 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -25429,7 +25560,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "885012209048"
+		(property "MPN" "WE 885012209048"
 			(at 43.18 39.37 0)
 			(effects
 				(font
@@ -25874,6 +26005,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MPN" "STM32G431CBU6"
+			(at 294.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "36"

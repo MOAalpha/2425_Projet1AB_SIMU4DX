@@ -11,4 +11,4 @@ Séance 6 : PCB Frein en cours de soudure, Début soudure PCB COM \
 Séance 7 : Fin soudure PCB COM (ajout switch et USB2.0 ...), test de la carte PCB COM, test sur la réception des données \
 Séance 8 : A venir \
 Séance 9 : A venir \
-Séance 10 : Présentation du projet ? \
+Séance 10 : Présentation du projet ?  \

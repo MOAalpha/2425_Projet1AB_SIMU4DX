@@ -6,9 +6,9 @@ Séance 3 : Suite du design des PCB / en parallèle avancée sur le logiciel de 
 
 
 Séance 4 : Fin Shéma PCB Frein, Fin routage et envoi PCB COM \
-Séance 5 : Première tentative de routage ... 
-Séance 6 : PCB Frein en cours de soudure, Début soudure PCB COM
-Séance 7 : Fin soudure PCB COM (ajout switch et USB2.0 ...), test de la carte PCB COM, test sur la réception des données
-Séance 8 : A venir
-Séance 9 : A venir
-Séance 10 : Présentation du projet ?
+Séance 5 : Première tentative de routage ... \
+Séance 6 : PCB Frein en cours de soudure, Début soudure PCB COM \
+Séance 7 : Fin soudure PCB COM (ajout switch et USB2.0 ...), test de la carte PCB COM, test sur la réception des données \
+Séance 8 : A venir \
+Séance 9 : A venir \
+Séance 10 : Présentation du projet ? \

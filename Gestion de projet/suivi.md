@@ -5,7 +5,7 @@ Séance 2 : Diagramme d'architecture, cahier des charges et répartition des tâ
 Séance 3 : Suite du design des PCB / en parallèle avancée sur le logiciel de simulation 
 
 
-Séance 4 : Fin Shéma PCB Frein, Fin routage et envoi PCB COM
+Séance 4 : Fin Shéma PCB Frein, Fin routage et envoi PCB COM \
 Séance 5 : Première tentative de routage ... 
 Séance 6 : PCB Frein en cours de soudure, Début soudure PCB COM
 Séance 7 : Fin soudure PCB COM (ajout switch et USB2.0 ...), test de la carte PCB COM, test sur la réception des données

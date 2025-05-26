@@ -8,7 +8,7 @@ Séance 3 : Suite du design des PCB / en parallèle avancée sur le logiciel de 
 Séance 4 : Fin Shéma PCB Frein, Fin routage et envoi PCB COM \
 Séance 5 : Première tentative de routage ... \
 Séance 6 : PCB Frein en cours de soudure, Début soudure PCB COM \
-Séance 7 : Fin soudure PCB COM (ajout switch et USB2.0 ...), test de la carte PCB COM, test sur la réception des données \
+Séance 7 : Fin soudure PCB COM (ajout switch et USB2.0 ...), test de la carte PCB COM => on a bien les 5V en entrée du régulateur et les 3.3V en sortie, test sur la réception des données \
 Séance 8 : Test PCB COM \
             Etude de la transmission de données
             Voici un schéma simplifié de la transmission de données du jeu au mouvement de la voiture.
@@ -22,5 +22,6 @@ Séance 8 : Test PCB COM \
            
            
 
-Séance 9 : A venir \
+Séance 9 : Toujours test de la PCB com, on détecte un problème d'horloge. En utilisant une boucle vide, l'allumage de la LED fonctionne => c'est donc un problème d'horloge interne.
+Le mode debugger montre que la variable uwTick ne s'incrémente pas. Après plusieurs recherches sur différents forums et requêtes à différentes IA, je n'ai toujours pas trouvé la solution. Ceci m'embête car son rôle est de transmettre à intervalle régulier les infos aux PCB moteurs. Je n'ai donc pas pu m'occuper de la PCB frein.\
 Séance 10 : Présentation du projet ?  \
